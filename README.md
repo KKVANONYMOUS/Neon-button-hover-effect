@@ -1,1 +1,1 @@
-# Neon-button-hover-effect
+This is a repo containing a neon button hover effect made using HTML and CSS.
