@@ -1,1 +1,1 @@
-This is a repo containing a neon button hover effect made using HTML and CSS.
+This is a repo containing a nav bar and hover effect over my name, made using HTML CSS and Bootstrap 4.

@@ -1,29 +1,14 @@
-body{
-  margin: 0;
-  padding: 0;
-  display: flex;
+#name{
+	text-decoration: none;
+	padding: 5px 10px;
+  align-content: center;
+   overflow: hidden;
+  transition: 0.2s;
+display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
-  background: #031321;
-  font-family: consolas;
-}
-a{
   position: relative;
   display: inline-block;
-  padding: 15px 30px;
-  color: #2196f3;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  text-decoration: none;
-  font-size: 24px;
-  overflow: hidden;
-  transition: 0.2s;
-}
-a:hover{
-  color: #255784;
-  background: #2196f3;
-  box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
   transition-delay: 1s;
 }
 a span{
@@ -35,7 +20,7 @@ a span:nth-child(1)  {
   left: -100%;
   width: 100%;
   height: 2px;
-  background: linear-gradient(90deg,transparent,#2196f3);
+  background: linear-gradient(90deg,transparent,#C9C3C2);
 }
 a:hover span:nth-child(1) {
   left: 100%;
@@ -46,7 +31,7 @@ a span:nth-child(3) {
   right: -100%;
   width: 100%;
   height: 2px;
-  background: linear-gradient(270deg,transparent,#2196f3);
+  background: linear-gradient(270deg,transparent,#C9C3C2);
 }
 a:hover span:nth-child(3) {
   right: 100%;
@@ -58,7 +43,7 @@ a span:nth-child(2) {
   right: 0;
   width: 2px;
   height: 100%;
-  background: linear-gradient(180deg,transparent,#2196f3);
+  background: linear-gradient(180deg,transparent,#C9C3C2);
 }
 a:hover span:nth-child(2) {
   top: 100%;
@@ -70,7 +55,7 @@ a span:nth-child(4) {
   left: 0;
   width: 2px;
   height: 100%;
-  background: linear-gradient(360deg,transparent,#2196f3);
+  background: linear-gradient(360deg,transparent,#C9C3C2);
 }
 a:hover span:nth-child(4) {
   bottom: 100%;
