@@ -1,1 +1,1 @@
-This is a repo containing a nav bar and hover effect over my name, made using HTML CSS and Bootstrap 4.
+This is a fully responsive website made using HTML,CSS and Bootstrap 4.
