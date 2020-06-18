@@ -1,1 +1,1 @@
-This is a fully responsive website made using HTML,CSS and Bootstrap 4.
+This is a just a responsive website made using HTML,CSS and Bootstrap 4 for practice purposes
